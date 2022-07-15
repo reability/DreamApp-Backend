@@ -1,6 +1,6 @@
 
 
-class AppRouter:
+class DreamRouter:
     def __init__(self, bp):
         self.bp = bp
 
